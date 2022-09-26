@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="122" height="122" viewBox="0 0 122 122">
+  <g id="Group_82280" data-name="Group 82280" transform="translate(-153 -288)">
+    <circle id="Ellipse_3007" data-name="Ellipse 3007" cx="61" cy="61" r="61" transform="translate(153 288)" fill="#d9eafa"/>
+    <g id="Group_82274" data-name="Group 82274" transform="translate(-199.655 198.345)">
+      <rect id="Rectangle_23275" data-name="Rectangle 23275" width="68" height="68" transform="translate(379.655 116.655)" fill="#213fb9" opacity="0"/>
+      <g id="bell_3_" data-name="bell (3)" transform="translate(388.655 118.554)">
+        <path id="Path_139807" data-name="Path 139807" d="M50.447,45.665A18.707,18.707,0,0,1,44.5,31.828V24.3c0-9.5-6.535-17.366-15-18.684V2.7a2.507,2.507,0,1,0-5,0V5.616C16.032,6.934,9.5,14.8,9.5,24.3v7.528A18.726,18.726,0,0,1,3.53,45.687,4.881,4.881,0,0,0,2,49.275,4.565,4.565,0,0,0,6.375,54h41.25A4.565,4.565,0,0,0,52,49.275,4.9,4.9,0,0,0,50.447,45.665Z" transform="translate(-2 0)" fill="none" stroke="#213fb9" stroke-width="4"/>
+        <path id="Path_139808" data-name="Path 139808" d="M20.818,31.2A12.771,12.771,0,0,0,33.31,21H8.326A12.771,12.771,0,0,0,20.818,31.2Z" transform="translate(4.182 33)" fill="none" stroke="#213fb9" stroke-width="4"/>
+      </g>
+    </g>
+  </g>
+</svg>

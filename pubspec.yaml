@@ -1,0 +1,117 @@
+name: fitnessapp
+description: A flutter project for Fitness Application
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 5.4.3+14
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fluttertoast: ^8.0.8
+  sizer: ^2.0.15
+  cupertino_icons: ^1.0.4
+  get: ^4.6.1
+  hive: ^2.0.5
+  hive_flutter: ^1.1.0
+  form_builder_phone_field:
+    path: packages/form_builder_phone_field-main
+  messenger:
+    path: packages/messenger
+  http_certificate_pinning:
+    path: packages/http_certificate_pinning-master
+  flutter_uploader:
+    path: packages/flutter_uploader-main
+  pin_code_fields: ^7.3.0
+  provider: ^6.0.2
+  image_picker: ^0.8.5
+  video_player: 2.1.12
+  table_calendar: ^3.0.3
+  signature: ^5.0.0
+  cached_network_image: ^3.2.0
+  path_provider: ^2.0.7
+  pausable_timer: ^1.0.0+3
+  flutter_share: ^2.0.0
+  firebase_core: ^1.10.5
+  firebase_messaging: ^11.2.3
+  flutter_local_notifications: ^9.1.5
+  firebase_analytics: ^9.0.2
+  permission_handler: ^8.3.0
+  device_info_plus: ^3.1.1
+  myfatoorah_flutter: ^2.1.5
+  chewie:
+  local_auth: ^1.1.9
+  encrypt: ^5.0.1
+  flutter_switch: ^0.3.2
+  firebase_dynamic_links: ^3.0.1
+  http: ^0.13.4
+  file_picker: ^4.3.2
+  video_compress: ^3.1.0
+  open_file: ^3.2.1
+  lottie: ^1.2.1
+  flutter_widget_from_html_core: ^0.8.4
+  flutter_svg: '>=0.22.0 <1.0.0'
+  easy_debounce: ^2.0.1
+  flutter_secure_storage: ^5.0.2
+  flutter_windowmanager: ^0.2.0
+  dio: ^4.0.4
+  firebase_auth: ^3.3.4
+  better_player: ^0.0.81
+  url_launcher: ^6.0.20
+  audioplayers: ^0.20.1
+  flutter_audio_recorder2: ^0.0.2
+  gallery_saver: ^2.3.2
+  media_info: ^0.11.0
+  just_audio: ^0.9.28
+
+dev_dependencies:
+  flutter_lints: ^1.0.4
+  hive_generator: ^1.1.2
+  build_runner: ^2.1.5
+
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fonts/
+    - assets/svgs/
+    - assets/images/
+    - assets/animations/
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+
+    - family: Montserrat-Medium
+      fonts:
+        - asset: assets/fonts/Montserrat-Medium.ttf
+
+    - family: Montserrat-SemiBold
+      fonts:
+        - asset: assets/fonts/Montserrat-SemiBold.ttf
+
+    - family: Montserrat-Bold
+      fonts:
+        - asset: assets/fonts/Montserrat-Bold.ttf
+
+    - family: Montserrat-ExtraBold
+      fonts:
+        - asset: assets/fonts/Montserrat-ExtraBold.ttf

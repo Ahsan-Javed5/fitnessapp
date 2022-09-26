@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "352588944092",
+    "firebase_url": "https://fit-and-more-328320-default-rtdb.firebaseio.com",
+    "project_id": "fit-and-more-328320",
+    "storage_bucket": "fit-and-more-328320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352588944092:android:1a8accd1a03686f5999a19",
+        "android_client_info": {
+          "package_name": "com.fitandmoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352588944092-68vqp1mch7rpj8e4srn64077ei96g1pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitandmoreapp",
+            "certificate_hash": "3b281ddc949f66d7be1a2b9c783b910c69a4724b"
+          }
+        },
+        {
+          "client_id": "352588944092-77chc7bkiqrv9978tiqt42oitvn35j46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitandmoreapp",
+            "certificate_hash": "ab7272c1eb3627b3847dd85075ca89ee8e28efe5"
+          }
+        },
+        {
+          "client_id": "352588944092-c36n93iq7imv8asmrvrg0vt59cos100b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitandmoreapp",
+            "certificate_hash": "68f0d00520327e14f03073605f1737b1596d60c0"
+          }
+        },
+        {
+          "client_id": "352588944092-ck4rjbuu39qv4jrbsa2rgrq785m0sa4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitandmoreapp",
+            "certificate_hash": "88145cb3ba3d9394d9317ed61c076bd0993d379b"
+          }
+        },
+        {
+          "client_id": "352588944092-8tsl2tgtd48hkqrrc93pf5dr1ioo9rmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSE3s8ooLNBRVJ2uZKv_8N4-6-BcNS7dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352588944092-8tsl2tgtd48hkqrrc93pf5dr1ioo9rmd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352588944092-la7nl8gekln508vpcfh7qp1r9rg5bebv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fitandmoreapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

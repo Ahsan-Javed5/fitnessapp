@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>352588944092-la7nl8gekln508vpcfh7qp1r9rg5bebv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.352588944092-la7nl8gekln508vpcfh7qp1r9rg5bebv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>352588944092-68vqp1mch7rpj8e4srn64077ei96g1pb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWpn_PYp0_BFgpon5ES-wIuegxXlmyDko</string>
+	<key>GCM_SENDER_ID</key>
+	<string>352588944092</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fitandmoreapp</string>
+	<key>PROJECT_ID</key>
+	<string>fit-and-more-328320</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fit-and-more-328320.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:352588944092:ios:4d86b1c63e6c1bc9999a19</string>
+	<key>DATABASE_URL</key>
+	<string>https://fit-and-more-328320-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

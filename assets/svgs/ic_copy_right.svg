@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g transform="translate(-90 -836)">
+        <rect fill-opacity="0" width="24" height="24" transform="translate(90 836)" />
+        <g transform="translate(90 836)">
+            <path fill="#fff"
+                d="M12,24A12,12,0,1,1,24,12,12.014,12.014,0,0,1,12,24ZM12,1.5A10.5,10.5,0,1,0,22.5,12,10.512,10.512,0,0,0,12,1.5Z" />
+            <path fill="#fff"
+                d="M116.823,122.823a6,6,0,1,1,4.287-10.2l-1.072,1.049a4.5,4.5,0,1,0,0,6.3l1.071,1.05A5.952,5.952,0,0,1,116.823,122.823Z"
+                transform="translate(-104.823 -104.823)" />
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24.096" viewBox="0 0 24 24.096">
+    <g transform="translate(0 0.33)">
+        <rect fill="#fff" width="24" height="24" transform="translate(0 -0.33)" opacity="0" />
+        <g transform="translate(3 0.215)">
+            <path fill="#fff" stroke="#fff" stroke-width="0.5px"
+                d="M27.976,25.3H11.333A.333.333,0,0,1,11,24.967V2.333A.333.333,0,0,1,11.333,2H23.066a.333.333,0,0,1,.236.1l4.91,4.913a.333.333,0,0,1,.1.235V24.967A.333.333,0,0,1,27.976,25.3Zm-16.31-.666H27.643V7.384L22.928,2.666H11.666Z"
+                transform="translate(-11 -2)" />
+            <path fill="#fff" stroke="#fff" stroke-width="0.5px"
+                d="M51.493,7.579h-4.91a.333.333,0,0,1-.333-.333V2.333a.333.333,0,1,1,.666,0v4.58h4.577a.333.333,0,1,1,0,.666Z"
+                transform="translate(-34.517 -2)" />
+            <path fill="#fff" stroke="#fff" stroke-width="0.5px"
+                d="M30.037,36.2H17.5a.333.333,0,1,1,0-.666H30.037a.333.333,0,1,1,0,.666Z"
+                transform="translate(-15.114 -24.374)" />
+            <path fill="#fff" stroke="#fff" stroke-width="0.5px"
+                d="M30.037,45.2H17.5a.333.333,0,1,1,0-.666H30.037a.333.333,0,1,1,0,.666Z"
+                transform="translate(-15.114 -30.378)" />
+            <path fill="#fff" stroke="#fff" stroke-width="0.5px"
+                d="M30.037,54.2H17.5a.333.333,0,1,1,0-.666H30.037a.333.333,0,1,1,0,.666Z"
+                transform="translate(-15.114 -36.383)" />
+            <path fill="#fff" stroke="#fff" stroke-width="0.5px"
+                d="M30.037,63.2H17.5a.333.333,0,1,1,0-.666H30.037a.333.333,0,1,1,0,.666Z"
+                transform="translate(-15.114 -42.387)" />
+            <path fill="#fff" stroke="#fff" stroke-width="0.5px"
+                d="M26.352,13.241a1.571,1.571,0,1,1,1.571-1.571.333.333,0,1,1-.666,0,.905.905,0,1,0-.905.905.333.333,0,1,1,0,.666Z"
+                transform="translate(-20.194 -7.403)" />
+            <path fill="#fff" stroke="#fff" stroke-width="0.5px"
+                d="M26.352,20.679a1.572,1.572,0,0,1-1.571-1.571.333.333,0,1,1,.666,0,.905.905,0,1,0,.905-.905.333.333,0,0,1,0-.666,1.571,1.571,0,1,1,0,3.142Z"
+                transform="translate(-20.194 -12.365)" />
+            <path fill="#fff" stroke="#fff" stroke-width="0.5px"
+                d="M28.833,26.185a.333.333,0,0,1-.333-.333v-.545a.333.333,0,1,1,.666,0v.545A.333.333,0,0,1,28.833,26.185Z"
+                transform="translate(-22.675 -17.328)" />
+            <path fill="#fff" stroke="#fff" stroke-width="0.5px"
+                d="M28.833,9.674a.333.333,0,0,1-.333-.333V8.8a.333.333,0,1,1,.666,0v.545A.333.333,0,0,1,28.833,9.674Z"
+                transform="translate(-22.675 -6.312)" />
+        </g>
+    </g>
+</svg>

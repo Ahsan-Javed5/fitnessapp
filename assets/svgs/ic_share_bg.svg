@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <g transform="translate(-376 -386)">
+        <rect fill="#D9EAFA" width="40" height="40" rx="5" transform="translate(376 386)" />
+        <g transform="translate(75 -10)">
+            <rect fill="#fff" opacity="0" width="24" height="24" transform="translate(309 404)" />
+            <path fill="#213FB9"
+                d="M27.2,22.4a4.786,4.786,0,0,0-3.616,1.65L17.493,21a4.767,4.767,0,0,0,0-2.01l6.091-3.046A4.788,4.788,0,1,0,22.507,13.8L16.416,16.85a4.8,4.8,0,1,0,0,6.3L22.507,26.2A4.8,4.8,0,1,0,27.2,22.4Zm0-12a2.4,2.4,0,1,1-2.4,2.4A2.4,2.4,0,0,1,27.2,10.4Zm-14.4,12A2.4,2.4,0,1,1,15.2,20,2.4,2.4,0,0,1,12.8,22.4Zm14.4,7.2a2.4,2.4,0,1,1,2.4-2.4A2.4,2.4,0,0,1,27.2,29.6Z"
+                transform="translate(301 396)" />
+        </g>
+    </g>
+</svg>

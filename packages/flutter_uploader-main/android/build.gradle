@@ -1,0 +1,50 @@
+group 'com.bluechilli.flutteruploader'
+version '1.0-SNAPSHOT'
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.2.1'
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 30
+
+    defaultConfig {
+        minSdkVersion 16
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    lintOptions {
+        disable 'InvalidPackage'
+    }
+}
+
+dependencies {
+    implementation "androidx.work:work-runtime:2.5.0"
+    implementation "androidx.concurrent:concurrent-futures:1.1.0"
+    implementation "androidx.annotation:annotation:1.2.0"
+    implementation "androidx.lifecycle:lifecycle-livedata:2.3.1"
+    implementation "androidx.core:core:1.5.0"
+    implementation "com.squareup.okhttp3:okhttp:4.9.0"
+    implementation "com.google.code.gson:gson:2.8.6"
+}
